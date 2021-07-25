@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ercioalendre
-- 🌱 I’m currently learning ReactJS, NodeJS and DevOps
+- 🌱 I’m currently learning NodeJS
 - 📫 Reach me out on https://www.linkedin.com/in/ercioalendre/
 
 <!---
